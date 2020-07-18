@@ -1,0 +1,9 @@
+D:\Rajesh\RestAPI\WebApiCore\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+D:\Rajesh\RestAPI\WebApiCore\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\Rajesh\RestAPI\WebApiCore\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\Rajesh\RestAPI\WebApiCore\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+D:\Rajesh\RestAPI\WebApiCore\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+D:\Rajesh\RestAPI\WebApiCore\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+D:\Rajesh\RestAPI\WebApiCore\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+D:\Rajesh\RestAPI\WebApiCore\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+D:\Rajesh\RestAPI\WebApiCore\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache

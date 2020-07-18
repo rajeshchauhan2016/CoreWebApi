@@ -1,0 +1,12 @@
+D:\Rajesh\RestAPI\WebApiCore\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+D:\Rajesh\RestAPI\WebApiCore\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\Rajesh\RestAPI\WebApiCore\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\Rajesh\RestAPI\WebApiCore\RepositoryLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\Rajesh\RestAPI\WebApiCore\RepositoryLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\Rajesh\RestAPI\WebApiCore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csprojAssemblyReference.cache
+D:\Rajesh\RestAPI\WebApiCore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Rajesh\RestAPI\WebApiCore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+D:\Rajesh\RestAPI\WebApiCore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Rajesh\RestAPI\WebApiCore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+D:\Rajesh\RestAPI\WebApiCore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\Rajesh\RestAPI\WebApiCore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
